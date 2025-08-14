@@ -15,7 +15,7 @@ function Header() {
     <header className="main-header">
       {" "}
       {/* Add a wrapper for header content */}
-      <div className="college-name">
+      <div className="college-name"> 
         <Link to="/">Vivekanand College</Link>{" "}
         {/* College Name/Logo for desktop & mobile */}
       </div>
